@@ -1,0 +1,16 @@
+.footer{
+    background: #fff;
+    padding: 1rem 0;
+}
+
+.footer p{
+    font-family: "Roboto Mono";
+    margin: 0;
+}
+
+
+@media screen and (max-width: 500px){
+    .footer{
+      display: none;
+    }
+  }
